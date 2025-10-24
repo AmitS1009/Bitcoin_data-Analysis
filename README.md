@@ -5,6 +5,11 @@ Advanced data analysis project examining the relationship between market sentime
 
 ## 📊 Key Findings
 
+![Python](https://img.shields.io/badge/python-3.8%2B-blue)
+![Pandas](https://img.shields.io/badge/pandas-data%20analysis-orange)
+![Jupyter](https://img.shields.io/badge/Jupyter-notebook-orange)
+![License](https://img.shields.io/badge/license-MIT-green)
+
 ### Statistical Results
 - **Correlation Analysis**: Sentiment vs PnL = -0.083 (p-value: 0.071)
 - **Data Scale**: 211,224 trades analyzed over 2-year period (2023-2025)
